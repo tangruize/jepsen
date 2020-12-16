@@ -1,0 +1,2 @@
+deb http://mirrors.nju.edu.cn/debian/ buster main contrib non-free
+deb http://mirrors.nju.edu.cn/debian-security buster/updates main contrib non-free

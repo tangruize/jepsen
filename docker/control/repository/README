@@ -1,0 +1,2 @@
+# Copy local repository to here
+cp -a ~/.m2/repository/* .

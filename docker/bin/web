@@ -1,4 +1,5 @@
 #!/usr/bin/env bash
 
 PORT=$(docker port jepsen-control 8080 | cut -d : -f 2)
+echo "http://localhost:$PORT"
 xdg-open "http://localhost:$PORT"
